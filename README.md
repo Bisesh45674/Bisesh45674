@@ -2,7 +2,7 @@
 
 🎓 BCA Student (TU)  
 💻 Learning Python, SQL, and C  
-🎮 Interested in Pygame & mini projects  
+🎮 Interested in Coding & Mini Projects  
 🌱 Currently improving problem-solving  
 
 ## 🛠 Skills
